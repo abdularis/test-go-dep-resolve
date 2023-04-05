@@ -1,4 +1,4 @@
-module github.com/abdularis/test-go-dep-resolve/mod-1
+module github.com/abdularis/test-go-dep-resolve/mod-something
 
 go 1.18
 
